@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-06-08 11:31+0000\n"
 "Last-Translator: Fjoerfoks <fryskefirefox@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3019,11 +3019,32 @@ msgstr "Nije API-kaai makke"
 msgid "API key revoked"
 msgstr "API-kaai ynlutsen"
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr "Lês en akseptearje eardat jo begjinne ús Firefox-add-on-distribúsje-oerienkomst. Dizze ferwiist ek nei ús Privacyferklearring, dy't útleit hoe't wy mei jo gegevens omgean."
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Add-on-distribúsjeoerienkomst"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Opmerking by beoardieling"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Beoardielingsrjochtlinen"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr "Lês en akseptearje eardat jo begjinne ús Firefox-add-on-distribúsje-oerienkomst. Dizze ferwiist ek nei ús Privacyferklearring, dy't útleit hoe't wy mei jo gegevens omgean."
 
 msgid "Printable Version"
 msgstr "Ofdrukbere ferzje"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Ik akseptearje dizze Oerienkomst"
@@ -3033,29 +3054,6 @@ msgstr "of <a href=\"{0}\">Annulearje</a>"
 
 msgid "Back to Add-ons"
 msgstr "Tebek nei add-ons"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Sykje"
-
-msgid "Search"
-msgstr "Sykje"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Sykresultaten foar ‘{0}’"
-
-msgid "Search Results"
-msgstr "Sykresultaten"
-
-msgid "Please enter some search terms."
-msgstr "Fier inkelde syktermen yn."
-
-msgid "Loading results&hellip;"
-msgstr "Resultaten lade…"
-
-msgid "No results found."
-msgstr "Gjin resultaten fûn."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3107,6 +3105,9 @@ msgstr "Mear helpboarnen"
 msgid "Search Developer Docs"
 msgstr "Untwikkelersdokumintaasje trochsykje"
 
+msgid "Search"
+msgstr "Sykje"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Brûk ûndersteand fjild om jo add-on-pakket op te laden."
 
@@ -3142,6 +3143,9 @@ msgstr "Resinte aktiviteit foar {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> troch %(user)s"
+
+msgid "No results found."
+msgstr "Gjin resultaten fûn."
 
 msgid "Refine Activity"
 msgstr "Aktiviteit ferfynje"
@@ -3701,8 +3705,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr "Dizze opmerkingen binne allinnich sichtber foar jo en beoardielers."
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Ferzje opnij ynskeakelje"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Ferzje opnij ynskeakelje"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "In nije ferzje yntsjinje"
 
 msgid "Submit Version for Review"
 msgstr "Ferzje foar beoardieling yntsjinje"
@@ -3730,6 +3742,13 @@ msgstr "Yntsjinning foltôge"
 
 msgid "You’re done!"
 msgstr "Jo binne klear!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Ferzje ûndetekene"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr "Ferzje yntsjinne foar beoardieling"
@@ -7597,6 +7616,9 @@ msgstr ""
 msgid "Collection Search Results"
 msgstr ""
 
+msgid "Search Results"
+msgstr "Sykresultaten"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7609,6 +7631,14 @@ msgstr ""
 
 msgid "Themes Search Results"
 msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Sykje"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Sykresultaten foar ‘{0}’"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

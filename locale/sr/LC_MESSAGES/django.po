@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2015-02-07 12:40+0000\n"
 "Last-Translator: Vanja <tumbas93@gmail.com>\n"
 "Language-Team: sr\n"
@@ -3058,11 +3058,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Датум рецензије"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Рецензенти"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Верзија за штампање"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Прихватам овај уговор"
@@ -3072,29 +3091,6 @@ msgstr "или <a href=\"{0}\">Откажи</a>"
 
 msgid "Back to Add-ons"
 msgstr "Назад на додатке"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Претражи"
-
-msgid "Search"
-msgstr "Претражи"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Резултати претраге за \"{0}\""
-
-msgid "Search Results"
-msgstr "Резултати претраге"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Нема пронађених резултата."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3146,6 +3142,9 @@ msgstr "Више ресурса"
 msgid "Search Developer Docs"
 msgstr "Претражи Документе програмера"
 
+msgid "Search"
+msgstr "Претражи"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Искористите поље испод да бисте отпремили пакет додатка."
 
@@ -3181,6 +3180,9 @@ msgstr "Скорашња активност за {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> од стране %(user)s"
+
+msgid "No results found."
+msgstr "Нема пронађених резултата."
 
 msgid "Refine Activity"
 msgstr "Детаљнија активност"
@@ -3736,8 +3738,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr "URL ће бити само видљив ако сте програмер."
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Верзија за штампање"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Верзија за штампање"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Поднеси нови додатак"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3769,6 +3779,13 @@ msgstr "Подношење завршено"
 #, fuzzy
 msgid "You’re done!"
 msgstr "Готови сте!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Белешке о верзији"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7728,6 +7745,9 @@ msgstr "Резултати претраге колекције за {0}"
 msgid "Collection Search Results"
 msgstr "Резултати претраге колекције"
 
+msgid "Search Results"
+msgstr "Резултати претраге"
+
 msgid "Search Unavailable"
 msgstr "Претрага није доступна"
 
@@ -7740,6 +7760,14 @@ msgstr "Резултати претраге тема за {0}"
 
 msgid "Themes Search Results"
 msgstr "Резултати претраге тема"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Претражи"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Резултати претраге за \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-06-12 23:34+0000\n"
 "Last-Translator: Noshin Tasneem <noshin.tasneem97@yahoo.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2966,11 +2966,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "পর্যালোচনা নোট"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "পর্যালোচনাকারী"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "মুদ্রণযোগ্য সংস্করন"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "আমি চুক্তিনামাটি গ্রহণ করছি"
@@ -2980,29 +2999,6 @@ msgstr "অথবা <a href=\"{0}\">বাতিল</a>"
 
 msgid "Back to Add-ons"
 msgstr "অ্যাড-অনে ফিরে যান"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr ""
-
-msgid "Search"
-msgstr "খোঁজা"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr ""
-
-msgid "Search Results"
-msgstr "অনুসন্ধানের ফলাফল"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "ফলাফল পাওয়া যায় নি।"
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3054,6 +3050,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+msgid "Search"
+msgstr "খোঁজা"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3089,6 +3088,9 @@ msgstr ""
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\"> %(ago)s </time> দ্বারা %(user)s"
+
+msgid "No results found."
+msgstr "ফলাফল পাওয়া যায় নি।"
 
 msgid "Refine Activity"
 msgstr ""
@@ -3620,8 +3622,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "ইনস্টল বাতিল"
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "নতুন সংস্করণ জমা দিন"
 
 msgid "Submit Version for Review"
 msgstr "সংস্করণ জমা দিন পর্যালোচনার জন্য"
@@ -3649,6 +3659,13 @@ msgstr ""
 
 msgid "You’re done!"
 msgstr "আপনি সম্পূর্ণ করেছেন!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "সংস্করণের সাইনড"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr "সংস্করণ জমা দেওয়া হয়েছে পর্যালোচনার জন্য"
@@ -7487,6 +7504,9 @@ msgstr ""
 msgid "Collection Search Results"
 msgstr ""
 
+msgid "Search Results"
+msgstr "অনুসন্ধানের ফলাফল"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7498,6 +7518,14 @@ msgid "Themes Search Results for {0}"
 msgstr ""
 
 msgid "Themes Search Results"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
 msgstr ""
 
 #. {0} is a tag, such as jetpack.

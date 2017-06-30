@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-05-13 13:27+0000\n"
 "Last-Translator: Lasse Liehu <lasse.liehu@gmail.com>\n"
 "Language-Team: Finnish <yllapito@mozilla.fi>\n"
@@ -3094,10 +3094,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+# 85%
+#, fuzzy
+msgid "Review Policy"
+msgstr "Arvostelu:"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Arvioijat"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
+msgstr ""
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
 
 msgid "I Accept this Agreement"
@@ -3108,30 +3128,6 @@ msgstr ""
 
 msgid "Back to Add-ons"
 msgstr "Takaisin lisäosiin"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr ""
-
-msgid "Search"
-msgstr "Etsi"
-
-# 85%
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Hakutulokset avainsanalle \"{0}\""
-
-msgid "Search Results"
-msgstr ""
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Osumia ei löytynyt."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3185,6 +3181,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr "Etsi kehitysdokumenteista"
 
+msgid "Search"
+msgstr "Etsi"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Siirrä lisäosapakettisi alla olevan kentän avulla."
 
@@ -3220,6 +3219,9 @@ msgstr ""
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr ""
+
+msgid "No results found."
+msgstr "Osumia ei löytynyt."
 
 msgid "Refine Activity"
 msgstr ""
@@ -3782,8 +3784,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Peruuta asennus"
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Lisää uusi lisäosa"
 
 # 81%
 #, fuzzy
@@ -3814,6 +3824,13 @@ msgid "Submission Complete"
 msgstr ""
 
 msgid "You’re done!"
+msgstr ""
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Versiokommentit"
+
+msgid "You’re done! This version will be available on our site shortly."
 msgstr ""
 
 msgid "Version Submitted for Review"
@@ -7771,6 +7788,9 @@ msgstr "Kokoelmien hakutulokset haulle: {0}"
 msgid "Collection Search Results"
 msgstr "Kokoelmien hakutulokset"
 
+msgid "Search Results"
+msgstr ""
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7783,6 +7803,15 @@ msgstr ""
 
 msgid "Themes Search Results"
 msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr ""
+
+# 85%
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Hakutulokset avainsanalle \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

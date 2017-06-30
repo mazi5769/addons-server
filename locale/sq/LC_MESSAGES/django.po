@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-05-21 22:22+0000\n"
 "Last-Translator: Besnik Bleta <besnik@programeshqip.org>\n"
 "Language-Team: sq\n"
@@ -3014,6 +3014,26 @@ msgstr "U prodhua kyç i ri API"
 msgid "API key revoked"
 msgstr "Kyçi API u shfuqizua"
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+"Para se t’ia filloni, ju lutemi lexoni dhe pranoni Marrëveshjen mbi Shpërndarjen e Shtesave të Firefox-it. E cila përmban gjithashtu edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet "
+"se si i trajtojmë ne të dhënat tuaja."
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Marrëveshje Shpërndarjesh Shtesash"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Rregulla Shhqyrtimesh"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Shqyrtues"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 "Para se t’ia filloni, ju lutemi lexoni dhe pranoni Marrëveshjen mbi Shpërndarjen e Shtesave të Firefox-it. E cila përmban gjithashtu edhe lidhje për te Shënimet tona mbi Privatësinë, ku shpjegohet "
@@ -3021,6 +3041,9 @@ msgstr ""
 
 msgid "Printable Version"
 msgstr "Version i Shtypshëm"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "E pranoj këtë Marrëveshje"
@@ -3030,29 +3053,6 @@ msgstr "ose <a href=\"{0}\">Anulojeni</a>"
 
 msgid "Back to Add-ons"
 msgstr "Mbrapsht te Shtesat"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Kërkim"
-
-msgid "Search"
-msgstr "Kërkoni"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Përfundime Kërkimi për \"{0}\""
-
-msgid "Search Results"
-msgstr "Përfundime Kërkimi"
-
-msgid "Please enter some search terms."
-msgstr "Ju lutemi, jepni ndonjë term kërkimi."
-
-msgid "Loading results&hellip;"
-msgstr "Po ngarkohen përfundimet&hellip;"
-
-msgid "No results found."
-msgstr "S’u gjetën përfundime."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3104,6 +3104,9 @@ msgstr "Më Tepër Burime"
 msgid "Search Developer Docs"
 msgstr "Kërkoni te Dokumentime për Zhvillues"
 
+msgid "Search"
+msgstr "Kërkoni"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Përdorni fushën më poshtë për të ngarkuar paketën e shtesës suaj."
 
@@ -3139,6 +3142,9 @@ msgstr "Veprimtari Së fundi për {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> nga %(user)s"
+
+msgid "No results found."
+msgstr "S’u gjetën përfundime."
 
 msgid "Refine Activity"
 msgstr "Përimtësoni Veprimtarinë"
@@ -3697,8 +3703,16 @@ msgstr "Ka ndonjë gjë që duhet ta kenë parasysh shqyrtuesit tanë kur të sh
 msgid "These notes will only be visible to you and our reviewers."
 msgstr "Këto shënime do të jenë të dukshme vetëm për ju dhe shqyrtuesit tanë."
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Anuloje Shqyrtimin dhe Çaktivizoje Versionin"
+
 msgid "Cancel Review and Disable Version"
 msgstr "Anuloje Shqyrtimin dhe Çaktivizoje Versionin"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Parashtroni një Version të Ri"
 
 msgid "Submit Version for Review"
 msgstr "Parashtrojeni Versionin për Shqyrtim"
@@ -3726,6 +3740,13 @@ msgstr "Parashtrim i Plotësuar"
 
 msgid "You’re done!"
 msgstr "Kaq qe!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Version i Nënshkruar"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr "Version i Parashtruar për Shqyrtim"
@@ -7718,6 +7739,9 @@ msgstr "Përfundime Kërkimi Koleksionesh për {0}"
 msgid "Collection Search Results"
 msgstr "Përfundime Kërkimi Koleksionesh"
 
+msgid "Search Results"
+msgstr "Përfundime Kërkimi"
+
 msgid "Search Unavailable"
 msgstr "Kërkim Jo i Mundshëm"
 
@@ -7730,6 +7754,14 @@ msgstr "Përfundime Kërkimi Temash për {0}"
 
 msgid "Themes Search Results"
 msgstr "Përfundime Kërkimi Temash"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Kërkim"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Përfundime Kërkimi për \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

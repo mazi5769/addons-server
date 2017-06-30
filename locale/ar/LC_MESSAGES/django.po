@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  messages\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2013-10-24 09:38+0300\n"
 "Last-Translator: Ellery <linux.anas@gmail.com>\n"
 "Language-Team: Arabeyes <doc@arabeyes.org>\n"
@@ -3027,10 +3027,29 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "التعليق"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "إرشادات التعليقات"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
+msgstr ""
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
 
 msgid "I Accept this Agreement"
@@ -3041,29 +3060,6 @@ msgstr "أو <a href=\"{0}\">ألغِ</a>"
 
 msgid "Back to Add-ons"
 msgstr "عودة إلى الإضافات"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: بحث"
-
-msgid "Search"
-msgstr "بحث"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "نتائج البحث عن \"{0}\""
-
-msgid "Search Results"
-msgstr "نتائج البحث"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "لم يُعثر على نتائج."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3115,6 +3111,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+msgid "Search"
+msgstr "بحث"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3150,6 +3149,9 @@ msgstr ""
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr ""
+
+msgid "No results found."
+msgstr "لم يُعثر على نتائج."
 
 msgid "Refine Activity"
 msgstr ""
@@ -3698,8 +3700,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "ألغِ التثبيت"
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "تقديم إضافة جديدة"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3729,6 +3739,13 @@ msgid "Submission Complete"
 msgstr ""
 
 msgid "You’re done!"
+msgstr ""
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "ملاحظات الإصدارة"
+
+msgid "You’re done! This version will be available on our site shortly."
 msgstr ""
 
 #, fuzzy
@@ -7632,6 +7649,9 @@ msgstr "نتائج البحث في المجمموعات عن {0}"
 msgid "Collection Search Results"
 msgstr "نتائج البحث في المجموعات"
 
+msgid "Search Results"
+msgstr "نتائج البحث"
+
 msgid "Search Unavailable"
 msgstr "البحث غير متوفر حاليًا"
 
@@ -7646,6 +7666,14 @@ msgstr "نتائج البحث عن \"{0}\""
 #, fuzzy
 msgid "Themes Search Results"
 msgstr "نتائج البحث"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: بحث"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "نتائج البحث عن \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

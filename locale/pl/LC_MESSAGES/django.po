@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2015-11-03 12:10+0100\n"
 "Last-Translator: Wojciech Szczęsny\n"
 "Language-Team: Polish <kde-i18n-doc@kde.org>\n"
@@ -3043,11 +3043,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Data sprawdzenia"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Recenzenci"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Wersja do druku"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Akceptuję umowę"
@@ -3057,29 +3076,6 @@ msgstr "lub <a href=\"{0}\">Anuluj</a>"
 
 msgid "Back to Add-ons"
 msgstr "Dodatki"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Wyszukiwanie"
-
-msgid "Search"
-msgstr "Szukaj"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Wyniki wyszukiwania dla „{0}”"
-
-msgid "Search Results"
-msgstr "Wyniki wyszukiwania"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Nic nie znaleziono."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3131,6 +3127,9 @@ msgstr "Więcej zasobów"
 msgid "Search Developer Docs"
 msgstr "Przeszukaj dokumentację dla autorów"
 
+msgid "Search"
+msgstr "Szukaj"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Użyj poniższego formularza, by przesłać spakowany plik dodatku."
 
@@ -3166,6 +3165,9 @@ msgstr "Ostatnia aktywność dla dodatku {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> przez użytkownika %(user)s"
+
+msgid "No results found."
+msgstr "Nic nie znaleziono."
 
 msgid "Refine Activity"
 msgstr "Oczyść czynności"
@@ -3740,8 +3742,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr "Ten adres URL będzie widoczny, tylko gdy jesteś programistą."
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Wersja do druku"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Wersja do druku"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Zamieść nowy dodatek"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3773,6 +3783,13 @@ msgstr "Przesyłanie zakończone"
 #, fuzzy
 msgid "You’re done!"
 msgstr "Gotowe!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Informacje o wersji"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7832,6 +7849,9 @@ msgstr "Wyniki wyszukiwania dla {0}"
 msgid "Collection Search Results"
 msgstr "Wyniki wyszukiwania kolekcji"
 
+msgid "Search Results"
+msgstr "Wyniki wyszukiwania"
+
 msgid "Search Unavailable"
 msgstr "Wyszukiwanie niedostępne"
 
@@ -7844,6 +7864,14 @@ msgstr "Wyniki wyszukiwania motywów dla {0}"
 
 msgid "Themes Search Results"
 msgstr "Wyniki wyszukiwania motywów"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Wyszukiwanie"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Wyniki wyszukiwania dla „{0}”"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

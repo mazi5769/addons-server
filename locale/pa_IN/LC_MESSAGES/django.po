@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-03-03 00:14+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3022,11 +3022,31 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr "ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡਾ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਵੰਡ ਸਮਝੌਤਾ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। ਇਹ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਵੀ ਸਬੰਧ ਰੱਖਦਾ ਜੋ ਦੱਸਦਾ ਹੈ ਕੀ ਕਿਵੇਂ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵਰਤਦੇ ਹਾਂ।"
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "ਸਮੀਖਿਆ ਮਿਤੀ"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "ਸਮੀਖਿਅਕ"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr "ਸ਼ੁਰੂ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ, ਕਿਰਪਾ ਕਰਕੇ ਸਾਡਾ ਫਾਇਰਫਾਕਸ ਐਡ-ਆਨ ਵੰਡ ਸਮਝੌਤਾ ਪੜ੍ਹੋ ਅਤੇ ਮਨਜ਼ੂਰ ਕਰੋ। ਇਹ ਸਾਡੇ ਪਰਦੇਦਾਰੀ ਨੋਟਿਸ ਨਾਲ ਵੀ ਸਬੰਧ ਰੱਖਦਾ ਜੋ ਦੱਸਦਾ ਹੈ ਕੀ ਕਿਵੇਂ ਅਸੀਂ ਤੁਹਾਡੀ ਜਾਣਕਾਰੀ ਨੂੰ ਵਰਤਦੇ ਹਾਂ।"
 
 msgid "Printable Version"
 msgstr "ਛਪਣਯੋਗ ਵਰਜਨ"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "ਮੈਨੂੰ ਇਹ ਸਮਝੌਤਾ ਮਨਜ਼ੂਰ ਹੈ"
@@ -3036,29 +3056,6 @@ msgstr "ਜਾਂ <a href=\"{0}\">ਰੱਦ</a>"
 
 msgid "Back to Add-ons"
 msgstr "ਐਡ-ਆਨ ਤੇ ਵਾਪਸ"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: ਖੋਜ"
-
-msgid "Search"
-msgstr "ਖੋਜ"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "\"{0}\" ਲਈ ਖੋਜ ਨਤੀਜੇ"
-
-msgid "Search Results"
-msgstr "ਖੋਜ ਨਤੀਜੇ"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂਂ ਮਿਲਿਆ"
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3110,6 +3107,9 @@ msgstr "ਹੋਰ ਵਸੀਲੇ"
 msgid "Search Developer Docs"
 msgstr "ਡਿਵੈਲਪਰ ਦਸਤਾਵੇਜ਼ ਖੋਜੋ"
 
+msgid "Search"
+msgstr "ਖੋਜ"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "ਆਪਣੇ ਐਡ-ਆਨ ਪੈਕੇਜ ਨੂੰ ਅੱਪਲੋਡ ਕਰਨ ਲਈ ਹੇਠ ਦਿੱਤੇ ਖੇਤਰ ਦੀ ਵਰਤੋਂ ਕਰੋ।"
 
@@ -3145,6 +3145,9 @@ msgstr "{0} ਲਈ ਤਾਜ਼ਾ ਸਰਗਰਮੀ"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> ਵੱਲੋਂ %(user)s"
+
+msgid "No results found."
+msgstr "ਕੋਈ ਨਤੀਜਾ ਨਹੀਂਂ ਮਿਲਿਆ"
 
 msgid "Refine Activity"
 msgstr "ਸਰਗਰਮੀ ਸੁਧਾਰ"
@@ -3701,8 +3704,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr "ਇਹ URL ਕੇਵਲ ਤਾਂ ਹੀ ਦਿੱਸੇਗੀ ਜੇਕਰ ਤੁਸੀਂ ਇੱਕ ਡਿਵੈਲਪਰ ਹੋ।"
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "ਸਮੀਖਿਆ ਬੇਨਤੀ ਰੱਦ ਕਰੋ"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "ਸਮੀਖਿਆ ਬੇਨਤੀ ਰੱਦ ਕਰੋ"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "ਇੱਕ ਨਵਾਂ ਐਡ-ਆਨ ਭੇਜੋ"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3734,6 +3745,13 @@ msgstr "ਦਾਖਲ ਕਰਨਾ ਮੁੰਕਮਲ"
 #, fuzzy
 msgid "You’re done!"
 msgstr "ਤੁਸੀਂ ਕਾਰਜ ਪੂਰਾ ਕੀਤਾ!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "ਵਰਜਨ ਨੋਟ"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7720,6 +7738,9 @@ msgstr "{0} ਲਈ ਸੰਗ੍ਰਹਿ ਖੋਜ ਨਤੀਜੇ"
 msgid "Collection Search Results"
 msgstr "ਸੰਗ੍ਰਹਿ ਖੋਜ ਨਤੀਜੇ"
 
+msgid "Search Results"
+msgstr "ਖੋਜ ਨਤੀਜੇ"
+
 msgid "Search Unavailable"
 msgstr "ਖੋਜ ਉੱਪਲਬਧ ਨਹੀਂ"
 
@@ -7732,6 +7753,14 @@ msgstr "{0} ਲਈ ਥੀਮ ਖੋਜ ਨਤੀਜੇ"
 
 msgid "Themes Search Results"
 msgstr "ਥੀਮ ਖੋਜ ਨਤੀਜੇ"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: ਖੋਜ"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "\"{0}\" ਲਈ ਖੋਜ ਨਤੀਜੇ"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

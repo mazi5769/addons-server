@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2013-11-28 12:53+0000\n"
 "Last-Translator: Anonymous Pootle User\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3048,10 +3048,29 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Review"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Review Guidelines"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
+msgstr ""
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
 
 msgid "I Accept this Agreement"
@@ -3062,30 +3081,6 @@ msgstr ""
 
 msgid "Back to Add-ons"
 msgstr ""
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr ""
-
-#, fuzzy
-msgid "Search"
-msgstr "Search"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr ""
-
-msgid "Search Results"
-msgstr ""
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Ямар ч үр дүн олдсонгүй."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3137,6 +3132,10 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+#, fuzzy
+msgid "Search"
+msgstr "Search"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3172,6 +3171,9 @@ msgstr ""
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr ""
+
+msgid "No results found."
+msgstr "Ямар ч үр дүн олдсонгүй."
 
 msgid "Refine Activity"
 msgstr ""
@@ -3718,8 +3720,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Суулгацыг цуцал"
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "New Version"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3748,6 +3758,13 @@ msgid "Submission Complete"
 msgstr ""
 
 msgid "You’re done!"
+msgstr ""
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Хувилбарын тэмдэглэл"
+
+msgid "You’re done! This version will be available on our site shortly."
 msgstr ""
 
 msgid "Version Submitted for Review"
@@ -7626,6 +7643,9 @@ msgstr ""
 msgid "Collection Search Results"
 msgstr ""
 
+msgid "Search Results"
+msgstr ""
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7637,6 +7657,14 @@ msgid "Themes Search Results for {0}"
 msgstr ""
 
 msgid "Themes Search Results"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
 msgstr ""
 
 #. {0} is a tag, such as jetpack.

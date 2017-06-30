@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-06-08 11:34+0000\n"
 "Last-Translator: Selim Şumlu <selim@sum.lu>\n"
 "Language-Team: Turkish (Türkçe)\n"
@@ -3054,11 +3054,31 @@ msgstr "Yeni API anahtarı oluşturuldu"
 msgid "API key revoked"
 msgstr "API anahtarı iptal edildi"
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Eklenti Dağıtım Sözleşmesi"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "İnceleme notu"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "İncelemeler"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Yazdırılabilir sürüm"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 #, fuzzy
 msgid "I Accept this Agreement"
@@ -3070,29 +3090,6 @@ msgstr "veya <a id=\"change-owner-cancel\" href=\"#\">Vazgeç</a>"
 
 msgid "Back to Add-ons"
 msgstr "Eklentilere dön"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Arama"
-
-msgid "Search"
-msgstr "Arama"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "\"{0}\" Arama Sonuçları"
-
-msgid "Search Results"
-msgstr "Arama Sonuçları"
-
-msgid "Please enter some search terms."
-msgstr "Lütfen bazı arama terimleri girin."
-
-msgid "Loading results&hellip;"
-msgstr "Sonuçlar yükleniyor&hellip;"
-
-msgid "No results found."
-msgstr "Sonuç bulunamadı."
 
 #. {0} is an application, like Firefox.
 #, fuzzy
@@ -3160,6 +3157,9 @@ msgstr "Ekstra Kaynaklar"
 msgid "Search Developer Docs"
 msgstr "Geliştirici yorumları"
 
+msgid "Search"
+msgstr "Arama"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Eklenti paketinizi yüklemek için aşağıdaki alanı kullanın."
 
@@ -3198,6 +3198,9 @@ msgstr "En Son {0} Etkinlikleri"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr ""
+
+msgid "No results found."
+msgstr "Sonuç bulunamadı."
 
 msgid "Refine Activity"
 msgstr ""
@@ -3782,8 +3785,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "İnceleme talep edildi"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "İnceleme talep edildi"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Yeni Eklenti Gönder"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3814,6 +3825,13 @@ msgstr "Gönderim tamamlandı"
 
 msgid "You’re done!"
 msgstr "İşlem tamam!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Sürüm Notları"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7953,6 +7971,9 @@ msgstr "{0} Koleksiyonları"
 msgid "Collection Search Results"
 msgstr "Koleksiyon oluşturuldu!"
 
+msgid "Search Results"
+msgstr "Arama Sonuçları"
+
 #, fuzzy
 msgid "Search Unavailable"
 msgstr "Arama Motoru"
@@ -7966,6 +7987,14 @@ msgstr ""
 
 msgid "Themes Search Results"
 msgstr "Tema Arama Sonuçları"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Arama"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "\"{0}\" Arama Sonuçları"
 
 #. {0} is a tag, such as jetpack.
 #, fuzzy

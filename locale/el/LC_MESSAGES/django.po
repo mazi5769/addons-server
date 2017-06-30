@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-05-30 12:34+0000\n"
 "Last-Translator: Jim Spentzos <jamesspentzos@hotmail.com>\n"
 "Language-Team: el-GR <LL@li.org>\n"
@@ -3018,11 +3018,31 @@ msgstr "Δημιουργήθηκε νέο κλειδί API"
 msgid "API key revoked"
 msgstr "Ανακλήθηκε κλειδί API"
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Συμφωνία διανομής προσθέτων"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Πολιτικές αξιολόγησης"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Οδηγίες σύνταξης αξιολόγησης"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Έκδοση για εκτύπωση"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Αποδέχομαι το συμφωνητικό"
@@ -3032,29 +3052,6 @@ msgstr "ή <a href=\"{0}\">Ακύρωση</a>"
 
 msgid "Back to Add-ons"
 msgstr "Πίσω στα πρόσθετα"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Αναζήτηση"
-
-msgid "Search"
-msgstr "Αναζήτηση"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Αποτελέσματα αναζήτησης για \"{0}\""
-
-msgid "Search Results"
-msgstr "Αποτελέσματα αναζήτησης"
-
-msgid "Please enter some search terms."
-msgstr "Παρακαλώ εισάγετε μερικούς όρους αναζήτησης."
-
-msgid "Loading results&hellip;"
-msgstr "Φόρτωση αποτελεσμάτων&hellip;"
-
-msgid "No results found."
-msgstr "Δε βρέθηκαν αποτελέσματα."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3106,6 +3103,9 @@ msgstr "Περισσότερες πηγές"
 msgid "Search Developer Docs"
 msgstr "Αναζήτηση τεκμηρίωσης προγραμματιστή"
 
+msgid "Search"
+msgstr "Αναζήτηση"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Χρησιμοποιήστε το πεδίο παρακάτω για να μεταφορτώσετε τη συσκευασία προσθέτου σας."
 
@@ -3141,6 +3141,9 @@ msgstr "Πρόσφατη δραστηριότητα για το {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> από %(user)s"
+
+msgid "No results found."
+msgstr "Δε βρέθηκαν αποτελέσματα."
 
 msgid "Refine Activity"
 msgstr "Διευκρίνηση δραστηριότητας"
@@ -3681,8 +3684,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Ακύρωση αξιολόγησης και απενεργοποίηση έκδοσης"
+
 msgid "Cancel Review and Disable Version"
 msgstr "Ακύρωση αξιολόγησης και απενεργοποίηση έκδοσης"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Υποβολή νέας έκδοσης"
 
 msgid "Submit Version for Review"
 msgstr "Υποβολή έκδοσης για αξιολόγηση"
@@ -3710,6 +3721,13 @@ msgstr "Ολοκληρώθηκε η υποβολή"
 
 msgid "You’re done!"
 msgstr "Τελειώσατε!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Η έκδοση υπογράφηκε"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr ""
@@ -7576,6 +7594,9 @@ msgstr "Αποτελέσματα αναζήτησης συλλογών για {0
 msgid "Collection Search Results"
 msgstr "Αποτελέσματα αναζήτησης συλλογών"
 
+msgid "Search Results"
+msgstr "Αποτελέσματα αναζήτησης"
+
 msgid "Search Unavailable"
 msgstr "Μη διαθέσιμη αναζήτηση"
 
@@ -7588,6 +7609,14 @@ msgstr "Αποτελέσματα αναζήτησης θεμάτων για {0}"
 
 msgid "Themes Search Results"
 msgstr "Αποτελέσματα αναζήτησης θεμάτων"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Αναζήτηση"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Αποτελέσματα αναζήτησης για \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

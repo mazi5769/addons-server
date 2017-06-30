@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2930,10 +2930,27 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+msgid "Review Policy"
+msgstr ""
+
+msgid "Review Rules"
+msgstr ""
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
+msgstr ""
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
 
 msgid "I Accept this Agreement"
@@ -2943,29 +2960,6 @@ msgid "or <a href=\"{0}\">Cancel</a>"
 msgstr ""
 
 msgid "Back to Add-ons"
-msgstr ""
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr ""
-
-msgid "Search"
-msgstr ""
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr ""
-
-msgid "Search Results"
-msgstr ""
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
 msgstr ""
 
 #. {0} is an application, like Firefox.
@@ -3018,6 +3012,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+msgid "Search"
+msgstr ""
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3052,6 +3049,9 @@ msgstr ""
 
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
+msgstr ""
+
+msgid "No results found."
 msgstr ""
 
 msgid "Refine Activity"
@@ -3582,7 +3582,13 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+msgid "Cancel and Disable Version"
+msgstr ""
+
 msgid "Cancel Review and Disable Version"
+msgstr ""
+
+msgid "Submit Version"
 msgstr ""
 
 msgid "Submit Version for Review"
@@ -3610,6 +3616,12 @@ msgid "Submission Complete"
 msgstr ""
 
 msgid "You’re done!"
+msgstr ""
+
+msgid "Version Submitted"
+msgstr ""
+
+msgid "You’re done! This version will be available on our site shortly."
 msgstr ""
 
 msgid "Version Submitted for Review"
@@ -7387,6 +7399,9 @@ msgstr ""
 msgid "Collection Search Results"
 msgstr ""
 
+msgid "Search Results"
+msgstr ""
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7398,6 +7413,14 @@ msgid "Themes Search Results for {0}"
 msgstr ""
 
 msgid "Themes Search Results"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
 msgstr ""
 
 #. {0} is a tag, such as jetpack.

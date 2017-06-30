@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  messages.pootle\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2013-11-07 07:24+0000\n"
 "Last-Translator: Julen <julenx@gmail.com>\n"
 "Language-Team: librezale@librezale.org\n"
@@ -3013,11 +3013,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Berrikusi"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Berrikusteko gidalerroak"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Inprimatzeko bertsioa"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr ""
@@ -3029,29 +3048,6 @@ msgstr "edo <a href=\"{0}\">Utzi</a>"
 
 msgid "Back to Add-ons"
 msgstr "Atzera gehigarrietara"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr ""
-
-msgid "Search"
-msgstr "Bilatu"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr ""
-
-msgid "Search Results"
-msgstr "Bilaketaren emaitzak"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Ez da emaitzarik aurkitu."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3103,6 +3099,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+msgid "Search"
+msgstr "Bilatu"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3138,6 +3137,9 @@ msgstr "{0} gehigarriaren azkenaldiko jarduera"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr ""
+
+msgid "No results found."
+msgstr "Ez da emaitzarik aurkitu."
 
 msgid "Refine Activity"
 msgstr "Birfindu jarduera"
@@ -3683,8 +3685,16 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Utzi instalazioa"
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Bidali gehigarri berria"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3714,6 +3724,13 @@ msgid "Submission Complete"
 msgstr "Bidalketa burututa"
 
 msgid "You’re done!"
+msgstr ""
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Bertsioa"
+
+msgid "You’re done! This version will be available on our site shortly."
 msgstr ""
 
 #, fuzzy
@@ -7647,6 +7664,9 @@ msgstr "Bildumaren bilaketa-emaitzak"
 msgid "Collection Search Results"
 msgstr "Bildumaren bilaketa-emaitzak"
 
+msgid "Search Results"
+msgstr "Bilaketaren emaitzak"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7658,6 +7678,14 @@ msgid "Themes Search Results for {0}"
 msgstr ""
 
 msgid "Themes Search Results"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
 msgstr ""
 
 #. {0} is a tag, such as jetpack.

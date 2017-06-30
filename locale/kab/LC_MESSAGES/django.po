@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-06-08 08:46+0000\n"
 "Last-Translator: Slimane Amiri <slimane.amiri@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2970,11 +2970,32 @@ msgstr "Tasarutt API tamaynut tettwarna"
 msgid "API key revoked"
 msgstr "Tasarutt API tettwaḥwi"
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr "Send ad tebduḍ, ɣeṛ udiɣ qbel ma ulac aɣilif amtawa n uzuzer n izegrar n Firefox. Ayagi yegber aseqwen ar tsertit n tbaḍnit id-yemmalen amek ad nsefrek taɣut icudden ɣur-k."
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Amtawa n uzuzer n uzegrir"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Tasertit n ucegger"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Imceggiren"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr "Send ad tebduḍ, ɣeṛ udiɣ qbel ma ulac aɣilif amtawa n uzuzer n izegrar n Firefox. Ayagi yegber aseqwen ar tsertit n tbaḍnit id-yemmalen amek ad nsefrek taɣut icudden ɣur-k."
 
 msgid "Printable Version"
 msgstr "Lqem yettwasaggazen"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Qebleɣ amtawa-agi"
@@ -2984,29 +3005,6 @@ msgstr "neɣ <a href=\"{0}\">Sefsex</a>"
 
 msgid "Back to Add-ons"
 msgstr "Uɣal ar izegrar"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Anadi"
-
-msgid "Search"
-msgstr "Nadi"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Igmaḍ n unadi i \"{0}\""
-
-msgid "Search Results"
-msgstr "Igmaḍ n unadi"
-
-msgid "Please enter some search terms."
-msgstr "Ma ulac aɣilif, sekcem kra n wawalen n unadi."
-
-msgid "Loading results&hellip;"
-msgstr "Asali n igmaḍ &hellip;"
-
-msgid "No results found."
-msgstr "Ulac igmad yettwafen."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3058,6 +3056,9 @@ msgstr "Ugar n teɣbula"
 msgid "Search Developer Docs"
 msgstr "Nadi tasemlit n tneflit"
 
+msgid "Search"
+msgstr "Nadi"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Seqdec urti daw-a akken ad tazned akemmus inek n uzegrir."
 
@@ -3093,6 +3094,9 @@ msgstr "Armud n melmi kan i {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> sɣuṛ %(user)s"
+
+msgid "No results found."
+msgstr "Ulac igmad yettwafen."
 
 msgid "Refine Activity"
 msgstr "Armud aleqqay"
@@ -3630,8 +3634,16 @@ msgstr "Yella wayen nniḍen i yessefk ad ẓren imsekyaden i ucegger n uzegrir-
 msgid "These notes will only be visible to you and our reviewers."
 msgstr "Tizmilin-agi ad d-ttwaseknent kan i kečč akked imceggiren-nneɣ."
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Sefsex acegger sakin sens lqem"
+
 msgid "Cancel Review and Disable Version"
 msgstr "Sefsex acegger sakin sens lqem"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Azen lqem amaynut"
 
 msgid "Submit Version for Review"
 msgstr "Azen lqem i ucegger"
@@ -3659,6 +3671,13 @@ msgstr "Tuzna temmed"
 
 msgid "You’re done!"
 msgstr "D ayen ifuk!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Lqem yettwazmel"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr "Lqem yettwazen akken ad ittucegger"
@@ -7524,6 +7543,9 @@ msgstr "Igmaḍ n unadi n tegrummiwin i {0}"
 msgid "Collection Search Results"
 msgstr "Igmaḍ n unadi n tegrummiwin"
 
+msgid "Search Results"
+msgstr "Igmaḍ n unadi"
+
 msgid "Search Unavailable"
 msgstr "Ulac anadi"
 
@@ -7536,6 +7558,14 @@ msgstr "Igmaḍ n unadi n isental i {0}"
 
 msgid "Themes Search Results"
 msgstr "Igmaḍ n unadi n isental"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Anadi"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Igmaḍ n unadi i \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

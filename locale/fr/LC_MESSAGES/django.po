@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-06-07 18:04+0000\n"
 "Last-Translator: Théo Chevalier <theo.chevalier11@gmail.com>\n"
 "Language-Team: français <>\n"
@@ -3025,6 +3025,26 @@ msgstr "Nouvelle clé d’API créée."
 msgid "API key revoked"
 msgstr "Clé d’API révoquée"
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+"Avant de commencer, veuillez lire et accepter l’accord de distribution pour les modules complémentaires Firefox. Celui-ci possède un lien vers notre politique de confidentialité qui explique "
+"comment nous gérons les informations vous concernant."
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Accord de distribution des modules complémentaires"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Consulter les politiques"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Testeurs"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 "Avant de commencer, veuillez lire et accepter l’accord de distribution pour les modules complémentaires Firefox. Celui-ci possède un lien vers notre politique de confidentialité qui explique "
@@ -3032,6 +3052,9 @@ msgstr ""
 
 msgid "Printable Version"
 msgstr "Version imprimable"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "J’accepte cet accord"
@@ -3041,29 +3064,6 @@ msgstr "ou <a href=\"{0}\">Annuler</a>"
 
 msgid "Back to Add-ons"
 msgstr "Retour aux modules"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Recherche"
-
-msgid "Search"
-msgstr "Recherche"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Résultats de recherche pour « {0} »"
-
-msgid "Search Results"
-msgstr "Résultats de recherche"
-
-msgid "Please enter some search terms."
-msgstr "Saisissez un terme de recherche."
-
-msgid "Loading results&hellip;"
-msgstr "Chargement des résultats…"
-
-msgid "No results found."
-msgstr "Aucun résultat."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3115,6 +3115,9 @@ msgstr "Plus de ressources"
 msgid "Search Developer Docs"
 msgstr "Chercher dans les documentations développeur"
 
+msgid "Search"
+msgstr "Recherche"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Utilisez le champ ci-dessous pour envoyer votre paquet de module."
 
@@ -3150,6 +3153,9 @@ msgstr "Activité récente pour {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> par %(user)s"
+
+msgid "No results found."
+msgstr "Aucun résultat."
 
 msgid "Refine Activity"
 msgstr "Affiner les activités"
@@ -3718,8 +3724,16 @@ msgstr "Y a-t-il quoi que ce soit d’autre que nos testeurs devraient savoir po
 msgid "These notes will only be visible to you and our reviewers."
 msgstr "Ces notes seront uniquement visibles par vous-même et nos testeurs."
 
+#, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Annuler la revue et désactiver la version"
+
 msgid "Cancel Review and Disable Version"
 msgstr "Annuler la revue et désactiver la version"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Envoyer une nouvelle version"
 
 msgid "Submit Version for Review"
 msgstr "Demander une revue pour cette version"
@@ -3747,6 +3761,13 @@ msgstr "Envoi terminé"
 
 msgid "You’re done!"
 msgstr "C’est fait !"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Version signée"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 msgid "Version Submitted for Review"
 msgstr "Revue demandée pour cette version"
@@ -7748,6 +7769,9 @@ msgstr "Résultats de recherche pour la collection pour {0}"
 msgid "Collection Search Results"
 msgstr "Résultats de recherche pour la collection"
 
+msgid "Search Results"
+msgstr "Résultats de recherche"
+
 msgid "Search Unavailable"
 msgstr "Recherche non disponible"
 
@@ -7760,6 +7784,14 @@ msgstr "Résultats de recherche de thèmes pour {0}"
 
 msgid "Themes Search Results"
 msgstr "Résultats de recherche de thèmes"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Recherche"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Résultats de recherche pour « {0} »"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

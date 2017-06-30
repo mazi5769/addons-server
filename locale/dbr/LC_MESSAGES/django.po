@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PROJECT 1.0\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-19 13:13+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -2966,11 +2966,30 @@ msgstr "pǝʇɐǝɹɔ ʎǝʞ IԀ∀ ʍǝN"
 msgid "API key revoked"
 msgstr "pǝʞoʌǝɹ ʎǝʞ IԀ∀"
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+".uoıʇɐɯɹoɟuı ɹnoʎ ǝʅpuɐɥ ǝʍ ʍoɥ suıɐʅdxǝ ɥɔıɥʍ ǝɔıʇoN ʎɔɐʌıɹԀ ɹno oʇ sʞuıʅ osʅɐ ʇuǝɯǝǝɹƃ∀ uoıʇnqıɹʇsıᗡ uo-pp∀ xoɟǝɹıℲ ǝɥ⊥ .sǝʅnᴚ puɐ sǝıɔıʅoԀ ʍǝıʌǝᴚ ɹno sɐ ʅʅǝʍ sɐ ʇuǝɯǝǝɹƃ∀ uoıʇnqıɹʇsıᗡ uo-pp∀ "
+"xoɟǝɹıℲ ɹno ʇdǝɔɔɐ puɐ pɐǝɹ ǝsɐǝʅd ´ƃuıʇɹɐʇs ǝɹoɟǝԐ"
+
+msgid "Distribution Agreement"
+msgstr "ʇuǝɯǝǝɹƃ∀ uoıʇnqıɹʇsıᗡ"
+
+msgid "Review Policy"
+msgstr "ʎɔıʅoԀ ʍǝıʌǝᴚ"
+
+msgid "Review Rules"
+msgstr "sǝʅnᴚ ʍǝıʌǝᴚ"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ".uoıʇɐɯɹoɟuı ɹnoʎ ǝʅpuɐɥ ǝʍ ʍoɥ suıɐʅdxǝ ɥɔıɥʍ ǝɔıʇoN ʎɔɐʌıɹԀ ɹno oʇ sʞuıʅ osʅɐ ʇI .ʇuǝɯǝǝɹƃ∀ uoıʇnqıɹʇsıᗡ uo-pp∀ xoɟǝɹıℲ ɹno ʇdǝɔɔɐ puɐ pɐǝɹ ǝsɐǝʅd ´ƃuıʇɹɐʇs ǝɹoɟǝԐ"
 
 msgid "Printable Version"
 msgstr "uoısɹǝɅ ǝʅqɐʇuıɹԀ"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr "sǝıɔıʅoԀ puɐ sǝʅnᴚ ǝɥʇ puɐ ʇuǝɯǝǝɹƃ∀ sıɥʇ ʇdǝɔɔɐ puɐ pɐǝɹ ǝʌɐɥ I"
 
 msgid "I Accept this Agreement"
 msgstr "ʇuǝɯǝǝɹƃ∀ sıɥʇ ʇdǝɔɔ∀ I"
@@ -2980,29 +2999,6 @@ msgstr "<a href=\"{0}\">ʅǝɔuɐↃ</a> ɹo"
 
 msgid "Back to Add-ons"
 msgstr "suo-pp∀ oʇ ʞɔɐԐ"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "ɥɔɹɐǝS :: {0}"
-
-msgid "Search"
-msgstr "ɥɔɹɐǝS"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "„{0}„ ɹoɟ sʇʅnsǝᴚ ɥɔɹɐǝS"
-
-msgid "Search Results"
-msgstr "sʇʅnsǝᴚ ɥɔɹɐǝS"
-
-msgid "Please enter some search terms."
-msgstr ".sɯɹǝʇ ɥɔɹɐǝs ǝɯos ɹǝʇuǝ ǝsɐǝʅԀ"
-
-msgid "Loading results&hellip;"
-msgstr "&hellip;sʇʅnsǝɹ ƃuıpɐo⅂"
-
-msgid "No results found."
-msgstr ".punoɟ sʇʅnsǝɹ oN"
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3054,6 +3050,9 @@ msgstr "sǝɔɹnosǝᴚ ǝɹoW"
 msgid "Search Developer Docs"
 msgstr "sɔoᗡ ɹǝdoʅǝʌǝᗡ ɥɔɹɐǝS"
 
+msgid "Search"
+msgstr "ɥɔɹɐǝS"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ".ǝƃɐʞɔɐd uo-ppɐ ɹnoʎ pɐoʅdn oʇ ʍoʅǝq pʅǝıɟ ǝɥʇ ǝs∩"
 
@@ -3089,6 +3088,9 @@ msgstr "{0} ɹoɟ ʎʇıʌıʇɔ∀ ʇuǝɔǝᴚ"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "%(user)s ʎq <time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time>"
+
+msgid "No results found."
+msgstr ".punoɟ sʇʅnsǝɹ oN"
 
 msgid "Refine Activity"
 msgstr "ʎʇıʌıʇɔ∀ ǝuıɟǝᴚ"
@@ -3641,8 +3643,14 @@ msgstr "¿uo-ppɐ sıɥʇ ƃuıʍǝıʌǝɹ uǝɥʍ puıɯ uı ɹɐǝq pʅnoɥs 
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ".sɹǝʍǝıʌǝɹ ɹno puɐ noʎ oʇ ǝʅqısıʌ ǝq ʎʅuo ʅʅıʍ sǝʇou ǝsǝɥ⊥"
 
+msgid "Cancel and Disable Version"
+msgstr "uoısɹǝɅ ǝʅqɐsıᗡ puɐ ʅǝɔuɐↃ"
+
 msgid "Cancel Review and Disable Version"
 msgstr "uoısɹǝɅ ǝʅqɐsıᗡ puɐ ʍǝıʌǝᴚ ʅǝɔuɐↃ"
+
+msgid "Submit Version"
+msgstr "uoısɹǝɅ ʇıɯqnS"
 
 msgid "Submit Version for Review"
 msgstr "ʍǝıʌǝᴚ ɹoɟ uoısɹǝɅ ʇıɯqnS"
@@ -3670,6 +3678,12 @@ msgstr "ǝʇǝʅdɯoↃ uoıssıɯqnS"
 
 msgid "You’re done!"
 msgstr "¡ǝuop ǝɹ’no⅄"
+
+msgid "Version Submitted"
+msgstr "pǝʇʇıɯqnS uoısɹǝɅ"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ".ʎʅʇɹoɥs ǝʇıs ɹno uo ǝʅqɐʅıɐʌɐ ǝq ʅʅıʍ uoısɹǝʌ sıɥ⊥ ¡ǝuop ǝɹ’no⅄"
 
 msgid "Version Submitted for Review"
 msgstr "ʍǝıʌǝᴚ ɹoɟ pǝʇʇıɯqnS uoısɹǝɅ"
@@ -7592,6 +7606,9 @@ msgstr "{0} ɹoɟ sʇʅnsǝᴚ ɥɔɹɐǝS uoıʇɔǝʅʅoↃ"
 msgid "Collection Search Results"
 msgstr "sʇʅnsǝᴚ ɥɔɹɐǝS uoıʇɔǝʅʅoↃ"
 
+msgid "Search Results"
+msgstr "sʇʅnsǝᴚ ɥɔɹɐǝS"
+
 msgid "Search Unavailable"
 msgstr "ǝʅqɐʅıɐʌɐu∩ ɥɔɹɐǝS"
 
@@ -7604,6 +7621,14 @@ msgstr "{0} ɹoɟ sʇʅnsǝᴚ ɥɔɹɐǝS sǝɯǝɥ⊥"
 
 msgid "Themes Search Results"
 msgstr "sʇʅnsǝᴚ ɥɔɹɐǝS sǝɯǝɥ⊥"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "ɥɔɹɐǝS :: {0}"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "„{0}„ ɹoɟ sʇʅnsǝᴚ ɥɔɹɐǝS"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

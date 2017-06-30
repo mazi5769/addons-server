@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: addons\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-02-14 19:24+0000\n"
 "Last-Translator: Top <teerapatxtop@yahoo.com>\n"
 "Language-Team: Thai\n"
@@ -2976,10 +2976,29 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "บทวิจารณ์:"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "แนวทางการวิจารณ์"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
+msgstr ""
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
 msgstr ""
 
 msgid "I Accept this Agreement"
@@ -2990,29 +3009,6 @@ msgstr ""
 
 msgid "Back to Add-ons"
 msgstr "กลับไปยังส่วนเสริม"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: ค้นหา"
-
-msgid "Search"
-msgstr "ค้นหา"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "ผลการค้นหาสำหรับ \"{0}\""
-
-msgid "Search Results"
-msgstr "ผลการค้นหา"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "ไม่พบผลลัพธ์"
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3064,6 +3060,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr "ค้นหาเอกสารนักพัฒนา"
 
+msgid "Search"
+msgstr "ค้นหา"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3099,6 +3098,9 @@ msgstr "กิจกรรมล่าสุดของ {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> โดย %(user)s"
+
+msgid "No results found."
+msgstr "ไม่พบผลลัพธ์"
 
 msgid "Refine Activity"
 msgstr ""
@@ -3640,8 +3642,15 @@ msgstr ""
 msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
+msgid "Cancel and Disable Version"
+msgstr ""
+
 msgid "Cancel Review and Disable Version"
 msgstr ""
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "ส่งส่วนเสริมใหม่"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3672,6 +3681,13 @@ msgstr ""
 #, fuzzy
 msgid "You’re done!"
 msgstr "เสร็จแล้ว!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "รุ่น"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7502,6 +7518,9 @@ msgstr ""
 msgid "Collection Search Results"
 msgstr ""
 
+msgid "Search Results"
+msgstr "ผลการค้นหา"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7514,6 +7533,14 @@ msgstr "ผลการค้นหาชุดตกแต่งสำหรั
 
 msgid "Themes Search Results"
 msgstr "ผลการค้นหาชุดตกแต่ง"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: ค้นหา"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "ผลการค้นหาสำหรับ \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

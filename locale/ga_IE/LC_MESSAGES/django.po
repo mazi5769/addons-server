@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: REMORA 0.1\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2017-02-08 03:44+0000\n"
 "Last-Translator: kscanne <kscanne@gmail.com>\n"
 "Language-Team: Irish <gaeilge-gnulinux@lists.sourceforge.net>\n"
@@ -3102,11 +3102,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Eagarthóir"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Treoirlínte do Léirmheasanna"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Leagan Inphriontáilte"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Glacaim leis an gComhaontú"
@@ -3116,30 +3135,6 @@ msgstr "nó <a href=\"{0}\">Cealaigh</a>"
 
 msgid "Back to Add-ons"
 msgstr "Ar ais go dtí na Breiseáin"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Cuardaigh"
-
-# all of these look good as verbs as of 8 Feb 2011
-msgid "Search"
-msgstr "Cuardaigh"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Torthaí an Chuardaigh: \"{0}\""
-
-msgid "Search Results"
-msgstr "Torthaí an Chuardaigh"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Níor aimsíodh aon rud."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3191,6 +3186,10 @@ msgstr "Tuilleadh Acmhainní"
 msgid "Search Developer Docs"
 msgstr "Cuardaigh an Doiciméadú Forbartha"
 
+# all of these look good as verbs as of 8 Feb 2011
+msgid "Search"
+msgstr "Cuardaigh"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3226,6 +3225,9 @@ msgstr "Gníomhaíocht Is Déanaí le haghaidh {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> ag %(user)s"
+
+msgid "No results found."
+msgstr "Níor aimsíodh aon rud."
 
 msgid "Refine Activity"
 msgstr "Scag Gníomhaíocht"
@@ -3773,8 +3775,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Cuir an Scrúdú Ar Ceal"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Cuir an Scrúdú Ar Ceal"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Seol Leagan Nua"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3804,6 +3814,13 @@ msgstr "Seolta"
 
 msgid "You’re done!"
 msgstr "Tá tú críochnaithe!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Síníodh an Leagan"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7732,6 +7749,9 @@ msgstr "Torthaí Cuardaigh ar {0} i mBailiúcháin"
 msgid "Collection Search Results"
 msgstr "Torthaí Cuardaigh i mBailiúcháin"
 
+msgid "Search Results"
+msgstr "Torthaí an Chuardaigh"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7744,6 +7764,14 @@ msgstr ""
 
 msgid "Themes Search Results"
 msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Cuardaigh"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Torthaí an Chuardaigh: \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

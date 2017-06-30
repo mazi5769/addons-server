@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2015-10-15 01:01+0000\n"
 "Last-Translator: Cláudio <cesperanc@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3034,11 +3034,32 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+#, fuzzy
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr "Ante de começar, por favor leia e aceite o nosso acordo de distribuição de extra do Firefox. Também tem uma ligação para a nossa nota de privacidade que explica como gerimos a sua informação."
+
+#, fuzzy
+msgid "Distribution Agreement"
+msgstr "Acordo de distribuição de extras do Firefox"
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Data da revisão"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Revisores"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr "Ante de começar, por favor leia e aceite o nosso acordo de distribuição de extra do Firefox. Também tem uma ligação para a nossa nota de privacidade que explica como gerimos a sua informação."
 
 msgid "Printable Version"
 msgstr "Versão para impressão"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Eu aceito este acordo"
@@ -3048,29 +3069,6 @@ msgstr "ou <a href=\"{0}\">Cancelar</a>"
 
 msgid "Back to Add-ons"
 msgstr "Voltar aos extras"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Pesquisa"
-
-msgid "Search"
-msgstr "Pesquisar"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Resultados da pesquisa por \"{0}\""
-
-msgid "Search Results"
-msgstr "Resultados da pesquisa"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "Não foram encontrados resultados."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3122,6 +3120,9 @@ msgstr "Mais recursos"
 msgid "Search Developer Docs"
 msgstr "Procurar documentação para programadores"
 
+msgid "Search"
+msgstr "Pesquisar"
+
 msgid "Use the field below to upload your add-on package."
 msgstr "Utilize o campo abaixo para enviar o pacote com o seu extra."
 
@@ -3157,6 +3158,9 @@ msgstr "Atividade recente para {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> por %(user)s"
+
+msgid "No results found."
+msgstr "Não foram encontrados resultados."
 
 msgid "Refine Activity"
 msgstr "Refinar atividade"
@@ -3734,8 +3738,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr "Este endereço só será visível se for um programador."
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Versão para impressão"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Versão para impressão"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Submeter um novo extra"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3768,6 +3780,13 @@ msgstr "Submissão concluída"
 #, fuzzy
 msgid "You’re done!"
 msgstr "Está feito!"
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Notas da versão"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7826,6 +7845,9 @@ msgstr "Resultados da pesquisa de coleções por {0}"
 msgid "Collection Search Results"
 msgstr "Resultados da pesquisa de coleções"
 
+msgid "Search Results"
+msgstr "Resultados da pesquisa"
+
 msgid "Search Unavailable"
 msgstr "Pesquisa indisponível"
 
@@ -7838,6 +7860,14 @@ msgstr "Resultados da pesquisa por temas para {0}"
 
 msgid "Themes Search Results"
 msgstr "Resultados da pesquisa por temas"
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Pesquisa"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Resultados da pesquisa por \"{0}\""
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"

@@ -10,7 +10,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version:  c\n"
 "Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
-"POT-Creation-Date: 2017-06-15 03:41+0000\n"
+"POT-Creation-Date: 2017-06-30 22:49+0000\n"
 "PO-Revision-Date: 2013-10-23 18:28+0000\n"
 "Last-Translator: Toni <toniher@softcatala.org>\n"
 "Language-Team: Catalan <mozilla@llistes.softcatala.org>\n"
@@ -3061,11 +3061,30 @@ msgstr ""
 msgid "API key revoked"
 msgstr ""
 
+msgid ""
+"Before starting, please read and accept our Firefox Add-on Distribution Agreement as well as our Review Policies and Rules. The Firefox Add-on Distribution Agreement also links to our Privacy "
+"Notice which explains how we handle your information."
+msgstr ""
+
+msgid "Distribution Agreement"
+msgstr ""
+
+#, fuzzy
+msgid "Review Policy"
+msgstr "Comentari"
+
+#, fuzzy
+msgid "Review Rules"
+msgstr "Guia per a la revisió"
+
 msgid "Before starting, please read and accept our Firefox Add-on Distribution Agreement. It also links to our Privacy Notice which explains how we handle your information."
 msgstr ""
 
 msgid "Printable Version"
 msgstr "Versió per imprimir"
+
+msgid "I have read and accept this Agreement and the Rules and Policies"
+msgstr ""
 
 msgid "I Accept this Agreement"
 msgstr "Accepto l'acord"
@@ -3075,29 +3094,6 @@ msgstr "o <a href=\"{0}\">Canceŀla</a>"
 
 msgid "Back to Add-ons"
 msgstr "Torna als complements"
-
-#. {0} is a search term, such as Firebug.
-msgid "{0} :: Search"
-msgstr "{0} :: Cerca"
-
-msgid "Search"
-msgstr "Cerca"
-
-#. {0} is a search term, such as Firebug.
-msgid "Search Results for \"{0}\""
-msgstr "Resultats de cerca de «{0}»"
-
-msgid "Search Results"
-msgstr "Resultats de cerca"
-
-msgid "Please enter some search terms."
-msgstr ""
-
-msgid "Loading results&hellip;"
-msgstr ""
-
-msgid "No results found."
-msgstr "No s'han trobat resultats."
 
 #. {0} is an application, like Firefox.
 msgid "{0} Add-ons"
@@ -3149,6 +3145,9 @@ msgstr ""
 msgid "Search Developer Docs"
 msgstr ""
 
+msgid "Search"
+msgstr "Cerca"
+
 msgid "Use the field below to upload your add-on package."
 msgstr ""
 
@@ -3184,6 +3183,9 @@ msgstr "Activitat recent del complement {0}"
 #, python-format
 msgid "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> by %(user)s"
 msgstr "<time datetime=\"%(iso)s\" title=\"%(pretty)s\">%(ago)s</time> per %(user)s"
+
+msgid "No results found."
+msgstr "No s'han trobat resultats."
 
 msgid "Refine Activity"
 msgstr "Afina l'activitat"
@@ -3739,8 +3741,16 @@ msgid "These notes will only be visible to you and our reviewers."
 msgstr ""
 
 #, fuzzy
+msgid "Cancel and Disable Version"
+msgstr "Cancel·lació de la petició de revisió"
+
+#, fuzzy
 msgid "Cancel Review and Disable Version"
 msgstr "Cancel·lació de la petició de revisió"
+
+#, fuzzy
+msgid "Submit Version"
+msgstr "Envia un complement nou"
 
 #, fuzzy
 msgid "Submit Version for Review"
@@ -3772,6 +3782,13 @@ msgstr "Procés finalitzat"
 #, fuzzy
 msgid "You’re done!"
 msgstr "Ja heu acabat."
+
+#, fuzzy
+msgid "Version Submitted"
+msgstr "Notes de la versió"
+
+msgid "You’re done! This version will be available on our site shortly."
+msgstr ""
 
 #, fuzzy
 msgid "Version Submitted for Review"
@@ -7741,6 +7758,9 @@ msgstr "Resultat de la cerca de coŀleccions pel {0}"
 msgid "Collection Search Results"
 msgstr "Resultat de la cerca de coŀleccions"
 
+msgid "Search Results"
+msgstr "Resultats de cerca"
+
 msgid "Search Unavailable"
 msgstr ""
 
@@ -7753,6 +7773,14 @@ msgstr ""
 
 msgid "Themes Search Results"
 msgstr ""
+
+#. {0} is a search term, such as Firebug.
+msgid "{0} :: Search"
+msgstr "{0} :: Cerca"
+
+#. {0} is a search term, such as Firebug.
+msgid "Search Results for \"{0}\""
+msgstr "Resultats de cerca de «{0}»"
 
 #. {0} is a tag, such as jetpack.
 msgid "{0} :: Tag"
