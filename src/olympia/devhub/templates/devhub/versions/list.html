@@ -94,24 +94,6 @@
       <a href="#" class="remove" data-version="{{ version.id }}" data-is-current="{{ (version == addon.current_version)|int }}">x</a>
     </td>
   </tr>
-  {% set can_request_review=addon.can_request_review() %}
-  {% set can_cancel=(not addon.is_disabled and addon.status==amo.STATUS_NOMINATED) %}
-  {% if full_info and check_addon_ownership(request, addon, dev=True) and (can_request_review or can_cancel) %}
-    <tr>
-      <td colspan="0" class="version-status-actions item-actions">
-        {% if can_request_review %}
-          <form method="post"
-                action="{{ url('devhub.request-review', addon.slug) }}">
-            {% csrf_token %}
-            <button class="link" type="submit">{{ _('Request Review') }}</button> &middot;
-          </form>
-        {% endif %}
-        {% if can_cancel %}
-          <a href="#" id="cancel-review">{{ _('Cancel Review Request') }}</a>
-        {% endif %}
-      </td>
-    </tr>
-  {% endif %}
   {% if not version.is_beta %}
     <tr>
         <td colspan="4" id="{{ version.id }}-review-history" class="review-history hidden"
